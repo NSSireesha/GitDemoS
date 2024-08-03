@@ -6,9 +6,7 @@ public class secondmax {
 
         //o(nlogn)-- sorting . Sorting cannot do duplicate elements
         System.out.println("print1");
-        System.out.println("print1");
-        System.out.println("print1");
-        System.out.println("print1");
+
 
         Integer arr[] = {10, 13, 10, 16,16};
         int max= Integer.MIN_VALUE;
@@ -28,6 +26,10 @@ public class secondmax {
             }
         }
         System.out.println(secondmax);
+
+        System.out.println("print1");
+        System.out.println("print1");
+        System.out.println("print1");;
 
 
 
