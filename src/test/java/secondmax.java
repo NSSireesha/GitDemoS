@@ -3,7 +3,9 @@ public class secondmax {
 
     public static void main(String[] args) {
 
-
+ System.out.println("edit1");
+        System.out.println("edit2");
+        System.out.println("edit3");
         //o(nlogn)-- sorting . Sorting cannot do duplicate elements
 
 // changes by user2
